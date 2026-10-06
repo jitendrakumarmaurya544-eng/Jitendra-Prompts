@@ -1,0 +1,6 @@
+{
+  "name": "Jitendra Prompts",
+  "description": "Discover premium AI prompts for images, videos, design, business, marketing and creativity. Create Better. Prompt Smarter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
